@@ -13,5 +13,5 @@ MySQL，ElasticSearch，Hive，HDFS，HBase，Redis 等
 
 ### 分支说明
 1. master为不稳定分支，不保证可用
-2. release的tag讲
+2. release为发布分支，发布说明见ChangeLog
 
